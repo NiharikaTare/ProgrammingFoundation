@@ -3,7 +3,8 @@ public class ArmStrongNumber {
 
 	public static void main(String[] args) {
 		boolean result = isArmStrong(153);
-		System.out.println(result);
+		System.out.println("Hello from Niharika");
+		
 	}
 	
 	public static boolean isArmStrong(int number) {
